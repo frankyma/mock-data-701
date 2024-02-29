@@ -1,8 +1,6 @@
-[
-  {
-    "id": 1,
-    "title": "Eat Breakfast",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi cras fermentum odio eu feugiat.",
-    "lane": 2
-  }
-]
+{
+  "id": 1,
+  "title": "Eat Breakfast",
+  "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi cras fermentum odio eu feugiat.",
+  "lane": 2
+}
