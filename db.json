@@ -5,35 +5,60 @@
       "listId": 1,
       "title": "Laundry Detergent",
       "quantity": 1,
-      "price": 12.99
+      "price": 12.99,
+      "notes": "Get the one with the green cap.",
+      "purchased": false,
+      "priodity": "high"
     },
     {
       "id": 2,
       "listId": 1,
       "title": "Apples",
       "quantity": 6,
-      "price": 0.5
+      "price": 0.5,
+      "notes": "Gala apples",
+      "purchased": true,
+      "priodity": "low"
     },
     {
       "id": 3,
       "listId": 2,
       "title": "Double Double",
       "quantity": 1,
-      "price": 3.99
+      "price": 3.99,
+      "notes": "Animal style",
+      "purchased": true,
+      "priodity": "medium"
     },
     {
       "id": 4,
       "listId": 3,
       "title": "Osprey Backpack",
       "quantity": 1,
-      "price": 250
+      "price": 250,
+      "notes": "Size M",
+      "purchased": false,
+      "priodity": "high"
     },
     {
       "id": 5,
       "listId": 3,
       "title": "Mountain House Freeze Dried Food",
       "quantity": 4,
-      "price": 8.99
+      "price": 8.99,
+      "notes": "Beef Stroganoff",
+      "purchased": true,
+      "priodity": "medium"
+    },
+    {
+      "id": 6,
+      "listId": 3,
+      "title": "REI Half Dome 2 Tent",
+      "quantity": 1,
+      "price": 199.99,
+      "notes": "Color: Green",
+      "purchased": false,
+      "priodity": "high"
     }
   ],
   "lists": [
