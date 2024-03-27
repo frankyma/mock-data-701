@@ -8,7 +8,7 @@
       "price": 12.99,
       "notes": "Get the one with the green cap.",
       "purchased": false,
-      "priodity": "high"
+      "priority": "high"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 0.5,
       "notes": "Gala apples",
       "purchased": true,
-      "priodity": "low"
+      "priority": "low"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 3.99,
       "notes": "Animal style",
       "purchased": true,
-      "priodity": "medium"
+      "priority": "medium"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 250,
       "notes": "Size M",
       "purchased": false,
-      "priodity": "high"
+      "priority": "high"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 8.99,
       "notes": "Beef Stroganoff",
       "purchased": true,
-      "priodity": "medium"
+      "priority": "medium"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 199.99,
       "notes": "Color: Green",
       "purchased": false,
-      "priodity": "high"
+      "priority": "high"
     }
   ],
   "lists": [
